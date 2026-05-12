@@ -33,6 +33,7 @@ Genie solves complex queries through distinct phases:
 - [[specialized-knowledge-search]] — solves the data discovery challenge
 - [[parallel-thinking]] — addresses the lack of verifiable tests
 - [[multi-llm-agents]] — optimizes cost/latency while maintaining accuracy
+- [[data-catalog-search-architecture]] — the infrastructure layer enabling enterprise-scale data discovery
 
 ## Sources
 - [[sources/articles/Pushing the Frontier for Data Agents with Genie.pdf]] — primary source for all content on this page

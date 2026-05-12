@@ -6,7 +6,8 @@ Links raw files to their source extracts and wiki pages.
 
 | File | Git link | Extracted to | Wiki pages |
 |---|---|---|---|
-| (none yet) | | | |
+| Improving Data Catalog Search Relevance | — | [[sources/papers/Improving Data Catalog Search Relevance]] | [[wiki/data-catalog-search-architecture]], [[wiki/pull-based-ingestion]], [[wiki/learning-to-rank]], [[wiki/search-ranking-signals]], [[wiki/search-evaluation-metrics]] |
+| Search Quality Metrics | — | [[sources/papers/Search Quality Metrics]] | [[wiki/search-evaluation-metrics]], [[wiki/rag-evaluation-metrics]], [[wiki/precision-recall-tradeoff]] |
 
 ## Code (../raw/code/)
 

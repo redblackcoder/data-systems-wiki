@@ -26,6 +26,7 @@ A technique for enterprise data discovery that builds semantic search indices fr
 - [[data-agents]] — solves the data discovery challenge unique to data agents
 - [[parallel-thinking]] — can be combined with specialized search for further gains
 - [[multi-llm-agents]] — the search sub-agent can use a different, optimized LLM
+- [[data-catalog-search-architecture]] — the underlying search engineering stack that powers discovery systems like this
 
 ## Sources
 - [[sources/articles/Pushing the Frontier for Data Agents with Genie.pdf]] — benchmark results and architecture description
