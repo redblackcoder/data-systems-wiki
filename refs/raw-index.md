@@ -8,6 +8,7 @@ Links raw files to their source extracts and wiki pages.
 |---|---|---|---|
 | Improving Data Catalog Search Relevance | — | [[sources/papers/Improving Data Catalog Search Relevance]] | [[wiki/data-catalog-search-architecture]], [[wiki/pull-based-ingestion]], [[wiki/learning-to-rank]], [[wiki/search-ranking-signals]], [[wiki/search-evaluation-metrics]] |
 | Search Quality Metrics | — | [[sources/papers/Search Quality Metrics]] | [[wiki/search-evaluation-metrics]], [[wiki/rag-evaluation-metrics]], [[wiki/precision-recall-tradeoff]] |
+| Generating Search Evaluation Datasets | — | [[sources/papers/Generating Search Evaluation Datasets]] | [[wiki/evaluation-dataset-generation]], [[wiki/synthetic-query-generation]], [[wiki/llm-as-judge-search]] |
 
 ## Code (../raw/code/)
 

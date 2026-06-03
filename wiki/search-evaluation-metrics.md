@@ -67,7 +67,11 @@ This detects regressions in minutes, ensuring ranking model improvements aren't 
 - [[search-ranking-signals]] — ground truth labels reveal which signals actually matter
 - [[rag-evaluation-metrics]] — extends these metrics to evaluate RAG pipelines (retriever + generator)
 - [[precision-recall-tradeoff]] — the fundamental tension that multi-stage architectures resolve
+- [[evaluation-dataset-generation]] — how to construct the ground-truth datasets these metrics consume
+- [[synthetic-query-generation]] — scaling evaluation coverage via LLM-generated queries
+- [[llm-as-judge-search]] — automated graded relevance judgments for NDCG computation
 
 ## Sources
 - [[sources/papers/Improving Data Catalog Search Relevance]] — metric definitions, ground truth methods, Netflix Data Canary pattern
 - [[sources/papers/Search Quality Metrics]] — metric taxonomy (rank-aware vs order-agnostic), NDCG limitations, agent evaluation requirements
+- [[sources/papers/Generating Search Evaluation Datasets]] — NDCG@10/Hit Rate@10 mathematical formulations, composite relevance scoring
